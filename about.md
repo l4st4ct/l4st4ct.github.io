@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "About"
-permalink: /about/
+layout: null
+title: About
+permalink: /about
 ---
 
 testing page
