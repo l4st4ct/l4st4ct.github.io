@@ -1,4 +1,5 @@
-layout: page
+===l
+ayout: page
 title: "About"
 permalink: /about/
 ====
