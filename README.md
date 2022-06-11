@@ -1,6 +1,13 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/l4st4ct/l4st4ct.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
