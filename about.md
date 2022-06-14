@@ -9,7 +9,7 @@ testing page
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-     {{ post.excerpt_separator }}
+     {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
