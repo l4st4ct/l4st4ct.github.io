@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example
-except_seperator: <!-- summary -->
+excerpt_seperator: <!-- summary -->
 ---
 testing
 
