@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/l4st4ct/l4st4ct.github.io/
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt_separator }}
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
