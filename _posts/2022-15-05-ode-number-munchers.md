@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Ode to number munchers
 url: /number-munchers
 ---
 
