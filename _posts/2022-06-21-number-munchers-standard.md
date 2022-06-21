@@ -1,5 +1,5 @@
 ---
-title: Number Munchers Helped Build a Standard
+title: Number Munchers Helped Craft a Standard
 layout: post
 excerpt_separator: <!-- beginning -->
 ---
