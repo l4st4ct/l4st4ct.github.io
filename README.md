@@ -1,4 +1,4 @@
-## “Life is about not knowing, having to change, taking the moment and making the best of it, without knowing what’s going to happen next.”—Gilda Radner
+## “Life is about not knowing, having to change, taking the moment and making the best of it, without knowing what’s going to happen next.”— Gilda Radner
 
 A website to gather learnings, thoughts, code, and play.
 
