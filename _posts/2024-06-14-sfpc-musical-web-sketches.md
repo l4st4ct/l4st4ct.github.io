@@ -1,14 +1,11 @@
 ---
 title: Lessons and Reflections  SFPC 2022 Musical Web
 author: test
-date: 2024-06-14
-category: study
-layout: post
-excerpt_separator: <!-- summary -->
----
+date: 2024-06-14 08:00:20 +0000
+categories: [Design, Sketch]
+tags: [sound design, information_architecture]     # TAG names should always be lowercase
+description:
 Listing my sketches from the musical web class here and with some reflections 
-<!-- summary -->
-
 
 Week 1 [some laughs](https://lissa-remix-musicweb.glitch.me/)<br/>
 <p>should I animate the image? or maybe just focus on the current animating and laugher, the image is just a reference no need to be incorporated in this new piece - the contrast between stillness and laughter/movement is the focus</p>
