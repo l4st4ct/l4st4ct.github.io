@@ -7,11 +7,6 @@ export const SITE_CONFIG: SiteConfig = {
     "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
   lang: "en",
   siteLogo: "/profile.jpg",
-  navLinks: [
-    { text: "Experience", href: "#experience" },
-    { text: "Projects", href: "#projects" },
-    { text: "About", href: "#about" },
-  ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
     { text: "LinkedIn", href: "https://www.linkedin.com/in/lissaaguilar/" },
