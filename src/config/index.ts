@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/profile.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -14,10 +14,10 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/lissaaguilar/" },
     { text: "Github", href: "https://github.com/immois/astro-zen" },
     { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "itch.io", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
