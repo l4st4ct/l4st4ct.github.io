@@ -33,15 +33,16 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "RTX | Raytheon Technologies-Corporate",
+      position: "UX Researcher\BA Analyst",
+      startDate: "January 2023",
+      endDate: "July 2024",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
-      ],
+        "Conducted 5-8 usability studies monthly for ADX Migration and Learning Center experience, analyzed research, and presented findings; Created continuous discovery process for ADX Program to test web page designs weekly;
+        Conducted accessibility assessment on ADX Migration Learning Center website and designed recommendations based on 508 and WCAG 2.1 compliance; Created card sorting and tree testing activities to test new content and concepts on
+        ADX Migration Learning Center website redesign, recruited participants, analyzed results with actionable next steps to take on intranet website using PlaybookUX platform; Created documents for building research operations
+        and research best practices documentation, saved on UX team Confluence page; Conducted heuristics analysis for 20 intranet web pages, analyzed page analytics and shared findings in Power BI report with page owners; Scheduled and hosted
+        Zoom demonstrations and learning sessions on Microsoft O365 Planner for company employees."],
     },
     {
       company: "Bankit",
