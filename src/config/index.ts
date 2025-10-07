@@ -38,11 +38,12 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "January 2023",
       endDate: "July 2024",
       summary: [
-        "Conducted 5-8 usability studies monthly for ADX Migration and Learning Center experience, analyzed research, and presented findings; Created continuous discovery process for ADX Program to test web page designs weekly;
-        Conducted accessibility assessment on ADX Migration Learning Center website and designed recommendations based on 508 and WCAG 2.1 compliance; Created card sorting and tree testing activities to test new content and concepts on
-        ADX Migration Learning Center website redesign, recruited participants, analyzed results with actionable next steps to take on intranet website using PlaybookUX platform; Created documents for building research operations
-        and research best practices documentation, saved on UX team Confluence page; Conducted heuristics analysis for 20 intranet web pages, analyzed page analytics and shared findings in Power BI report with page owners; Scheduled and hosted
-        Zoom demonstrations and learning sessions on Microsoft O365 Planner for company employees."],
+        "Conducted 5-8 usability studies monthly for ADX Migration and Learning Center experience, analyzed research, and presented findings; Created continuous discovery process for ADX Program to test web page designs weekly; ",
+        "Conducted accessibility assessment on ADX Migration Learning Center website and designed recommendations based on 508 and WCAG 2.1 compliance; ",
+        "Created card sorting and tree testing activities to test new content and concepts on ADX Migration Learning Center website redesign, recruited participants, analyzed results with actionable next steps to take on intranet website using PlaybookUX platform; ",
+        "Created documents for building research operations and research best practices documentation, saved on UX team Confluence page; Conducted heuristics analysis for 20 intranet web pages, analyzed page analytics and shared findings in Power BI report with page owners;",
+        "Scheduled and hosted Zoom demonstrations and learning sessions on Microsoft O365 Planner for company employees.",
+      ],
     },
     {
       company: "Bankit",
