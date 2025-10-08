@@ -60,12 +60,12 @@ export const SITE_CONTENT: SiteContent = {
         "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
       ],
     },
-    {
-      company: "Genius Sports Group",
-      position: "UX Strategist",
-      startDate: "January 2018",
-      endDate: "February 2019",
-      summary: 
+      {
+      company: "Driveer",
+      position: "Frontend Developer",
+      startDate: "Jun 2015",
+      endDate: "Oct 2016",
+      summary:
         "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
     },
   ],
