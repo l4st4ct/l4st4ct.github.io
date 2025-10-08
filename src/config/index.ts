@@ -65,10 +65,10 @@ export const SITE_CONTENT: SiteContent = {
       position: "UX Strategist",
       startDate: "January 2018",
       endDate: "February 2019",
-      summary:
+      summary: [
         "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+    ],
     },
-  ],
   projects: [
     {
       name: "Spotifu Music",
