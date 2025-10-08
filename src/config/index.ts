@@ -29,7 +29,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "UX Analyst & Service Designer",
     summary:
       "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
-    email: gexample@email.com",
+    email: "gexample@email.com",
   },
   experience: [
       {
