@@ -29,7 +29,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "UX Analyst & Service Designer",
     summary:
       "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
-    email: "example@email.com",
+    email: gexample@email.com",
   },
   experience: [
     {
@@ -61,10 +61,10 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Genius Sports Group",
+      position: "UX Strategist",
+      startDate: "January 2018",
+      endDate: "February 2019",
       summary:
         "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
     },
