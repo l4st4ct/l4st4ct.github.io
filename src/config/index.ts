@@ -8,10 +8,8 @@ export const SITE_CONFIG: SiteConfig = {
   lang: "en",
   siteLogo: "/profile.jpg",
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
     { text: "LinkedIn", href: "https://www.linkedin.com/in/lissaaguilar/" },
     { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
     { text: "itch.io", href: "https://github.com/immois/astro-zen" },
   ],
   navLinks: [
@@ -29,7 +27,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "UX Analyst & Service Designer",
     summary:
       "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
-    email: "gexample@email.com",
+    email: "lissa.aguilar@gmail.com",
   },
   experience: [
       {
