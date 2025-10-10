@@ -9,8 +9,8 @@ export const SITE_CONFIG: SiteConfig = {
   siteLogo: "/profile.jpg",
   socialLinks: [
     { text: "LinkedIn", href: "https://www.linkedin.com/in/lissaaguilar/" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "itch.io", href: "https://github.com/immois/astro-zen" },
+    { text: "Github", href: "https://github.com/l4st4ct" },
+    { text: "itch.io", href: "https://l4st4ct.itch.io/" },
   ],
   navLinks: [
     { text: "Experience", href: "#experience" },
