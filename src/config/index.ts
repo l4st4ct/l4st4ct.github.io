@@ -14,8 +14,8 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   navLinks: [
     { text: "Experience", href: "/resume" },
-    { text: "Projects", href: "#projects" },
-    { text: "About", href: "#about" },
+    { text: "Projects", href: "/uxprojects" },
+    { text: "About", href: "/about" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
