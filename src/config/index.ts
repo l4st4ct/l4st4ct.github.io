@@ -13,7 +13,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "itch.io", href: "https://l4st4ct.itch.io/" },
   ],
   navLinks: [
-    { text: "Experience", href: "#experience" },
+    { text: "Experience", href: "/resume" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
@@ -59,7 +59,7 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Genius Sprts Group",
+      company: "Genius Sports Group",
       position: "UX Strategist",
       startDate: "January 2018",
       endDate: "February 20 19",
@@ -70,6 +70,19 @@ export const SITE_CONTENT: SiteContent = {
         "Planned and facilitated Design System Kickoff meeting with front-end developer leads, product managers, and designers; Designed Invision prototype for AI Coaching Tool playback interface;",
         "Interviewed soccer and basketball statisticians on current workflow tracking a game score and player performance.",
     ],
+    },
+     {
+      company: "Media Temple",
+      position: "UX Architect",
+      startDate: "November 2015",
+      endDate: "December 2017",
+      summary: [
+        "Facilitated workshops with design and front-end development teams to draft product design principles and plan strategy for company design system;",
+        "Created UX recommendation document and wireframes for new billing page based on customer reported issues and customer service agents' testing prototypes;",
+        "Conducted usability tests with Usertesting.com and card sorting activities to resolve names applied to private server packages that confused customers;",
+        "Planned Optimizely A/B tests of product page layouts to improve conversion rates;",
+        "Created user journey maps for checkout workflow to highlight opportunities for checkout process improvement and conversion.",
+        ],
     },
   ],
   projects: [
