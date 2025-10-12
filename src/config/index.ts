@@ -87,15 +87,17 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "XO Group",
+      summary: "Validate hypothese of user behavior and Improve Wedding Tools Usage",
+      role: "UX Designer",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "/",
       image: "/spotifu.png",
     },
     {
       name: "Shopp App",
       summary: "An e-commerce platform that replicates Shopify's key features.",
+      role: "tbd",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
@@ -103,6 +105,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "ClonTagram",
       summary: "A social network that replicates the features of Instagram",
+      role: "tbd",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
