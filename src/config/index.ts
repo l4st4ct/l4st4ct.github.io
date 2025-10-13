@@ -90,7 +90,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "XO Group",
       summary: "Validate hypothese of user behavior and Improve Wedding Tools Usage",
       role: "UX Designer",
-      linkPreview: "/",
+      linkPreview: "/uxdetails/xogroup",
       linkSource: "/",
       image: "/spotifu.png",
     },
