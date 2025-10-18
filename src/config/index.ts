@@ -1,21 +1,23 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Lissa Aguilar — UX Analyst & Service Designer",
-  author: "Lissa Aguilar",
+  title: "Alejandro Múnez — Mobile & Web Developer",
+  author: "Alejandro Múnez Cuntez",
   description:
-    "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
+    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
   lang: "en",
-  siteLogo: "/profile.jpg",
-  socialLinks: [
-    { text: "LinkedIn", href: "https://www.linkedin.com/in/lissaaguilar/" },
-    { text: "Github", href: "https://github.com/l4st4ct" },
-    { text: "itch.io", href: "https://l4st4ct.itch.io/" },
-  ],
+  siteLogo: "/alejandro-small.jpg",
   navLinks: [
-    { text: "Experience", href: "/resume" },
-    { text: "Projects", href: "/uxprojects" },
-    { text: "About", href: "/about" },
+    { text: "Experience", href: "#experience" },
+    { text: "Projects", href: "#projects" },
+    { text: "About", href: "#about" },
+  ],
+  socialLinks: [
+    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
+    { text: "Github", href: "https://github.com/immois/astro-zen" },
+    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
+    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -23,106 +25,73 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Lissa Aguilar",
-    specialty: "UX Analyst & Service Designer",
+    name: "Alejandro Múnez",
+    specialty: "Mobile & Web Developer",
     summary:
-      "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
-    email: "lissa.aguilar@gmail.com",
+      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    email: "example@email.com",
   },
   experience: [
-      {
-      company: "RTX (Raytheon Technologies)",
-      position: "UX Researcher/BA Analyst",
-      startDate: "January 2023",
-      endDate: "July 2024",
+    {
+      company: "Zalmart",
+      position: "Lead Android Developer",
+      startDate: "May 2018",
+      endDate: "Sept 2020",
       summary: [
-        "Conducted 5-8 usability studies monthly for ADX Migration and Learning Center experience, analyzed research, and presented findings;",
-        "Created continuous discovery process for ADX Program to test web page designs weekly;",
-        "Conducted accessibility assessment on ADX Migration Learning Center website and designed recommendations based on 508 and WCAG 2.1 compliance;",
-        "Created card sorting and tree testing activities to test new content and concepts on ADX Migration Learning Center website redesign, recruited participants, analyzed results with actionable next steps to take on intranet website using PlaybookUX platform;",
-        "Created documents for building research operations and research best practices documentation, saved on UX team Confluence page; Conducted heuristics analysis for 20 intranet web pages, analyzed page analytics and shared findings in Power BI report with page owners;",
-        "Scheduled and hosted Zoom demonstrations and learning sessions on Microsoft O365 Planner for company employees.",
+        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
+        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
+        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
       ],
     },
     {
-      company: "Pearson Virtual Schools",
-      position: "Senior UX Designer",
-      startDate: "August 2019",
-      endDate: "December 2022",
+      company: "Bankit",
+      position: "Mobile Developer",
+      startDate: "Feb 2017",
+      endDate: "May 2018",
       summary: [
-        "Designed surveys and interview guides as part of teacher-family research for Alt Curriculum and Synchronous learning practices;",
-        "Collaborated with Special Population and Alt Curriculum teams on service blueprint for new curriculum offering with Figma and FigJam whiteboard workshop;",
-        "Conducted Discovery res/earch to understand Special Population student needs;",
-        "Interviewed K12 and Special Population teachers on their instruction experiences in Zoom and Adobe Connect;",
-        "Planned usability unmoderated tests to evaluate year 1, K5 course design on Usertesting.com and shared findings with product owners;",
-        "Created student personas, workflow charts, and student journeys for product managers to understand the student experience with the current learning management system.",
+        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
+        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
       ],
     },
     {
-      company: "Genius Sports Group",
-      position: "UX Strategist",
-      startDate: "January 2018",
-      endDate: "February 20 19",
-      summary: [
-        "Researched and collaborated with design and front-end teams to develop components for the company design system;",
-        "Facilitated strategic meetings for the AI Coaching Tool Product including requirement meetings with PM to identify accounts management screens and different roles for team management product:",
-        "Conducted card sorting activity of basketball statistics terms with users to develop proper taxonomy;",
-        "Planned and facilitated Design System Kickoff meeting with front-end developer leads, product managers, and designers; Designed Invision prototype for AI Coaching Tool playback interface;",
-        "Interviewed soccer and basketball statisticians on current workflow tracking a game score and player performance.",
-    ],
-    },
-     {
-      company: "Media Temple",
-      position: "UX Architect",
-      startDate: "November 2015",
-      endDate: "December 2017",
-      summary: [
-        "Facilitated workshops with design and front-end development teams to draft product design principles and plan strategy for company design system;",
-        "Created UX recommendation document and wireframes for new billing page based on customer reported issues and customer service agents' testing prototypes;",
-        "Conducted usability tests with Usertesting.com and card sorting activities to resolve names applied to private server packages that confused customers;",
-        "Planned Optimizely A/B tests of product page layouts to improve conversion rates;",
-        "Created user journey maps for checkout workflow to highlight opportunities for checkout process improvement and conversion.",
-        ],
+      company: "Driveer",
+      position: "Frontend Developer",
+      startDate: "Jun 2015",
+      endDate: "Oct 2016",
+      summary:
+        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
     },
   ],
   projects: [
     {
-      name: "XO Group",
-      summary: "tbd",
-      role: "UX Designer",
-      linkPreview: "/uxdetails/xogroup",
-      linkSource: "/",
+      name: "Spotifu Music",
+      summary: "A music streaming app that emulates Spotify's core features.",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
     },
     {
-      name: "Media Temple",
-      summary: "tbd",
-      role: "UX Architect",
-      linkPreview: "/uxdetails/mediatemple",
-      linkSource: "/",
+      name: "Shopp App",
+      summary: "An e-commerce platform that replicates Shopify's key features.",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
-      name: "Genius Sports Group",
+      name: "ClonTagram",
       summary: "A social network that replicates the features of Instagram",
-      role: "UX Strategist",
-      linkPreview: "/uxdetails/geniussports",
-      linkSource: "/",
-      image: "/clone-ig.png",
-    },
-    {
-      name: "Pearson Virtual Schools",
-      summary: "tbd",
-      role: "Senior UX Designer",
-      linkPreview: "/uxdetails/pearsonvirtualschools",
-      linkSource: "/",
+      linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
     },
   ],
   about: {
-    description: 
-      "Over the years, I’ve honed my skills in building robust, user-friendly applications that not only ",
-    image: "/",
+    description: `
+      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+
+      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+    `,
+    image: "/alejandro-big.jpg",
   },
 };
 

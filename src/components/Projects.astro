@@ -12,7 +12,7 @@ const { projects } = Astro.props;
 
 <Section text="Featured Projects" href="projects">
   {
-    projects.map(({ name, role, summary, image, linkPreview, linkSource }, index) => {
+    projects.map(({ name, summary, image, linkPreview, linkSource }, index) => {
       const top = 98 + index * 40;
       return (
         <div
@@ -24,16 +24,21 @@ const { projects } = Astro.props;
               <h3 class="mb-5 font-serif text-3xl font-medium text-primary">
                 {name}
               </h3>
-              <p class="text-base text-neutral">{role}</p>
               <p class="text-base text-neutral">{summary}</p>
               <div class="flex gap-5 pt-10 text-white">
-
+                <a
+                  href={linkSource}
+                  target="_blank"
+                  class="after:relative after:bottom-[-5px] after:content-[url(/external.svg)] hover:underline"
+                >
+                  Source
+                </a>
                 <a
                   href={linkPreview}
                   target="_blank"
                   class="after:relative after:bottom-[-5px] after:content-[url(/external.svg)] hover:underline"
                 >
-                  Project Details
+                  Preview
                 </a>
               </div>
             </div>

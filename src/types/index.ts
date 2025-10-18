@@ -32,7 +32,6 @@ export interface ExperienceProps {
 
 export interface ProjectProps {
   name: string;
-  role: string;
   summary: string;
   image: string;
   linkPreview?: string;
