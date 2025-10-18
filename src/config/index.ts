@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Lissa Aguilar — UX Analyst & Service Designer",
   author: "Lissa Aguilar",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
   lang: "en",
   siteLogo: "/profile.jpg",
   navLinks: [
@@ -66,6 +66,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Pearson Virtual Schools",
       summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
@@ -73,6 +74,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Genius Sports Group",
       summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
@@ -80,6 +82,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Media Temple",
       summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
@@ -87,6 +90,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "XO Group | The Knot",
       summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
