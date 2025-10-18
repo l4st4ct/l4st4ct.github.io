@@ -87,11 +87,15 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+      I'm a systems thinker who approaches user experience design by asking what motivates each design decision.. I'm fascinated by the tension between a business's needs and those of its users. They influence a product and its ecosystem. I believe in understanding the complete landscape — the complex interconnections between users, business goals, and technical constraints. Designing the appropriate solution means
+        1. researching the landscape and validating the problem
+        2. designing a solution,
+        3. prototyping the interactions,
+        4. testing the solution,
+        5. Measuring its performance -is it solving the problem?
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/profile.jpg",
   },
 };
 
