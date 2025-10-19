@@ -1,10 +1,10 @@
 ---
 import Section from "./Section.astro";
 import { Image } from "astro:assets";
-import type { ProjectProps } from "@types";
+import type { CasesProps } from "@types";
 
 interface Props {
-  projects: ProjectProps[];
+  projects: CasesProps[];
 }
 
 const { projects } = Astro.props;
@@ -12,7 +12,7 @@ const { projects } = Astro.props;
 
 <Section text="Featured Projects" href="projects">
   {
-    projects.map(({ name, summary, image, linkPreview, linkSource }, index) => {
+    Cases.map(({ name, summary, role, image, challenge, reflection }, index) => {
       const top = 98 + index * 40;
       return (
         <div
@@ -26,14 +26,9 @@ const { projects } = Astro.props;
               </h3>
               <p class="text-base text-neutral">{summary}</p>
               <div class="flex gap-5 pt-10 text-white">
-        
-                <a
-                  href={linkPreview}
-                  target="_blank"
-                  class="after:relative after:bottom-[-5px] after:content-[url(/external.svg)] hover:underline"
-                >
-                  View Project Details
-                </a>
+                <p>{role}</p>
+                <p>{role}</p>
+                <p>{role}</p>                
               </div>
             </div>
             <div class="flex items-end justify-end overflow-hidden">

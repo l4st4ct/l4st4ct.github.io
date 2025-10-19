@@ -33,10 +33,10 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "RTX (Raytheon Technologies)",
+      position: "UX Researcher/UX Analyst",
+      startDate: "January 2023",
+      endDate: "July 2024",
       summary: [
         "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
         "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
@@ -44,20 +44,28 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Pearson Virtual Schools",
+      position: "Senior UX Researcher & Designer",
+      startDate: "August 2019",
+      endDate: "December 2022",
       summary: [
         "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
         "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Genius Sports Group",
+      position: "UX Strategist",
+      startDate: "January 2018",
+      endDate: "February 2019",
+      summary:
+        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+    },
+    {
+      company: "Media Temple, A GoDaddy Company",
+      position: "UX Architect",
+      startDate: "November 2015",
+      endDate: "  December 2017",
       summary:
         "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
     },
@@ -68,7 +76,6 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
     },
     {
@@ -76,7 +83,6 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
@@ -84,17 +90,33 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
       name: "XO Group | The Knot",
       summary: "10-12 word count",
       role: 'tbd',
-      linkPreview: "/ux case studies/xogroup",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkPreview: "/case_studies/xogroup",
       image: "/clone-ig.png",
     },
+  ],
+  cases: [
+  {
+  name: "text",
+  summary: "text",
+  role: "text",
+  image: "/",
+  challenge: "text",
+  reflection: "text",
+  },
+  {
+  name: "text",
+  summary: "text",
+  role: "text",
+  image: "/",
+  challenge: "text",
+  reflection: "text",
+  },
   ],
   about: {
     description: `
