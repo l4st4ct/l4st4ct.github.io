@@ -76,6 +76,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
     },
     {
@@ -83,6 +84,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
@@ -90,6 +92,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
@@ -97,26 +100,9 @@ export const SITE_CONTENT: SiteContent = {
       summary: "10-12 word count",
       role: 'tbd',
       linkPreview: "/case_studies/xogroup",
+      linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
     },
-  ],
-  cases: [
-  {
-  name: "text",
-  summary: "text",
-  role: "text",
-  image: "/",
-  challenge: "text",
-  reflection: "text",
-  },
-  {
-  name: "text",
-  summary: "text",
-  role: "text",
-  image: "/",
-  challenge: "text",
-  reflection: "text",
-  },
   ],
   about: {
     description: `
