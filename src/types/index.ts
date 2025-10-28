@@ -33,11 +33,11 @@ export interface ExperienceProps {
 export interface ProjectProps {
   name: string;
   summary: string;
-  role: string;
   image: string;
   linkPreview?: string;
   linkSource?: string;
 }
+
 export interface AboutProps {
   description: string;
   image: string;
