@@ -1,16 +1,16 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
-  author: "Alejandro Múnez Cuntez",
+  title: "Lissa Aguilar — UX Analyst & Service Designer",
+  author: "Lissa Aguilar",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/profile.jpg",
   navLinks: [
-    { text: "Experience", href: "#experience" },
-    { text: "Projects", href: "#projects" },
-    { text: "About", href: "#about" },
+    { text: "Experience", href: "/resume" },
+    { text: "Projects", href: "/uxprojects" },
+    { text: "About", href: "/aboutme" },
   ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
@@ -25,18 +25,18 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Lissa Aguilar",
+    specialty: "UX Analyst & Service Designer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "I specialize in accessibility, usability testing, and user interaction design for web and desktop applications.",
     email: "example@email.com",
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "RTX (Raytheon Technologies)",
+      position: "UX Researcher/UX Analyst",
+      startDate: "January 2023",
+      endDate: "July 2024",
       summary: [
         "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
         "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
@@ -44,54 +44,77 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Pearson Virtual Schools",
+      position: "Senior UX Researcher & Designer",
+      startDate: "August 2019",
+      endDate: "December 2022",
       summary: [
         "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
         "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Genius Sports Group",
+      position: "UX Strategist",
+      startDate: "January 2018",
+      endDate: "February 2019",
+      summary:
+        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+    },
+    {
+      company: "Media Temple, A GoDaddy Company",
+      position: "UX Architect",
+      startDate: "November 2015",
+      endDate: "  December 2017",
       summary:
         "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
     },
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "Pearson Virtual Schools",
+      summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "Genius Sports Group",
+      summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/shopify-clon.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "Media Temple",
+      summary: "10-12 word count",
+      role: 'tbd',
       linkPreview: "/",
+      linkSource: "https://github.com/immois/astro-zen",
+      image: "/shopify-clon.png",
+    },
+    {
+      name: "XO Group | The Knot",
+      summary: "10-12 word count",
+      role: 'tbd',
+      linkPreview: "/case_studies/xogroup",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
     },
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+      I'm a systems thinker who approaches user experience design by asking what motivates each design decision.. I'm fascinated by the tension between a business's needs and those of its users. They influence a product and its ecosystem. I believe in understanding the complete landscape — the complex interconnections between users, business goals, and technical constraints. Designing the appropriate solution means
+        1. researching the landscape and validating the problem
+        2. designing a solution,
+        3. prototyping the interactions,
+        4. testing the solution,
+        5. Measuring its performance -is it solving the problem?
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/profile.jpg",
   },
 };
 
