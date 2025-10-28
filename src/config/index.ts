@@ -99,7 +99,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "XO Group | The Knot",
       summary: "10-12 word count",
       role: 'tbd',
-      linkPreview: "/case_studies/xogroup",
+      linkPreview: "/studies/xogroup",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/clone-ig.png",
     },
