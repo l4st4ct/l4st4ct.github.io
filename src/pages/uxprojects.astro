@@ -1,11 +1,11 @@
 ---
 import { SITE_CONTENT } from "@config";
 import Layout from "@layouts/Layout.astro";
-import PortfolioList from "@components/PortfolioList.astro";
+import Projects from "@components/PortfolioList.astro";
 
 import "../styles/global.css";
 ---
 
 <Layout>
-  <PortfolioList projects={SITE_CONTENT.portfolioList} />
+  <Projects projects={SITE_CONTENT.portfolioList} />
 </Layout>
