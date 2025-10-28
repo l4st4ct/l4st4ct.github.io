@@ -8,9 +8,7 @@ export const SITE_CONFIG: SiteConfig = {
   lang: "en",
   siteLogo: "/profile.jpg",
   navLinks: [
-    { text: "Experience", href: "/resume" },
-    { text: "Projects", href: "/uxprojects" },
-    { text: "About", href: "/aboutme" },
+    { text: "Collection of Projects", href: "/uxprojects" },
   ],
   socialLinks: [
     { text: "Twitter", href: "https://github.com/immois/astro-zen" },
