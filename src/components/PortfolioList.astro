@@ -1,16 +1,16 @@
 ---
 import Section from "./Section.astro";
 import { Image } from "astro:assets";
-import type { ProjectProps } from "@types";
+import type { PortfolioListProps } from "@types";
 
 interface Props {
-  projects: ProjectProps[];
+  projects: PortfolioListProps[];
 }
 
 const { projects } = Astro.props;
 ---
 
-<Section text="Featured Projects" href="projects">
+<Section text="UX Projects" href="projects">
   {
     projects.map(({ name, summary, image, linkPreview, linkSource }, index) => {
       const top = 98 + index * 40;
