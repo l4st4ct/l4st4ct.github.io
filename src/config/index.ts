@@ -104,6 +104,22 @@ export const SITE_CONTENT: SiteContent = {
       image: "/clone-ig.png",
     },
   ],
+  portfolioList: [
+    {
+      name: "XO Group | The Knot",
+      summary: "10-12 word count",
+      role: 'tbd',
+      linkPreview: "/case_studies/xogroup",
+      image: "/clone-ig.png",
+    },
+    {
+      name: "XO Group | The Knot",
+      summary: "10-12 word count",
+      role: 'tbd',
+      linkPreview: "/case_studies/xogroup",
+      image: "/clone-ig.png",
+    },
+  ],
   about: {
     description: `
       I'm a systems thinker who approaches user experience design by asking what motivates each design decision.. I'm fascinated by the tension between a business's needs and those of its users. They influence a product and its ecosystem. I believe in understanding the complete landscape — the complex interconnections between users, business goals, and technical constraints. Designing the appropriate solution means

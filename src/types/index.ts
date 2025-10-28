@@ -30,6 +30,14 @@ export interface ExperienceProps {
   summary: string | string[];
 }
 
+export interface PortfolioListProps {
+  name: string;
+  summary: string;
+  role: string;
+  image: string;
+  linkPreview: string;
+}
+
 export interface ProjectProps {
   name: string;
   summary: string;
@@ -38,7 +46,6 @@ export interface ProjectProps {
   linkPreview?: string;
   linkSource?: string;
 }
-
 export interface AboutProps {
   description: string;
   image: string;
