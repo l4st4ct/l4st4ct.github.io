@@ -11,14 +11,12 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Collection of Projects", href: "/uxprojects" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "itch.io", href: "https://l4st4ct.itch.io/" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/lissaaguilar/" },
+    { text: "Github", href: "https://github.com/l4st4ct" },
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: " ",
 };
 
 export const SITE_CONTENT: SiteContent = {
