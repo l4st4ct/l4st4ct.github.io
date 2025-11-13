@@ -19,7 +19,7 @@ tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wire
 
 ## XO Group | Validating Wedding Tools Usage
 
-## Deiverables
+## Deliverables
 Persona Development, User Research, Storyboards,  Wireframes, Prototypes
 
 
