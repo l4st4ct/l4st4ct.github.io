@@ -3,14 +3,22 @@ title: 'XO Group| The Knot'
 description: 'This page shows a selection of UX work completed for XO Group.'
 tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wireframes”, “Prototypes"]
 ---
-
+<link rel="stylesheet" href="../src/styles/global.css"/>
+<style>
+    h1{font-size:32px;color:#2563eb}
+    h2{color:#2563eb}
+    p{color:grey}
+    ul li {color:grey}
+    </style>
 <body>
-
+    <div style={border:2px}>
+          <div class="bg-difu relative  bg-black  ">
+        
 <div class="center" style="width:800px;align:center">
 
 # XO Group | The Knot
 
-<div style="background-color:grey">
+<div class="mb-12 border-neutral/20 bg-[#1c232d]/85" style="color:grey">
 
 ## Overview
  Many projects focused on improving engagement with available wedding tools and validating existing research hypotheses. I often worked on various projects at the XO Group during the discovery or evaluation phases of a product's lifecycle. Below are the various product experiences and reflections. I list a collection of projects I worked on at XO Group.
@@ -18,6 +26,8 @@ tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wire
  </div>
 
 ## XO Group | Validating Wedding Tools Usage
+
+## Project Summary
 
 ## Deliverables
 Persona Development, User Research, Storyboards,  Wireframes, Prototypes
@@ -30,8 +40,6 @@ Description
 
 ## Client
 Development, Design teams
-
-<div style="background-color:grey">
 
 ## Problem
 Development and design teams were not practicing user-centered design and wanted help incorporating methods into their process starting with using personas.
@@ -53,10 +61,11 @@ I worked with the marketing and SEO teams to gather quantitative data on our use
 
 </div>
 
+<div style="background-color:grey">
 
 ## Reflection
 Although we monitored story tickets  and saw an increase in using these personas in feature stories, I would have created more defined usage metrics that matched the goals and team needs.
-
+</div>
 <image>page8b.png
 Caption
 Alt text
@@ -115,5 +124,9 @@ I  met with the product manager and tech lead for the Knot Shop to learn more ab
 
 ## Tools Used
 Omnigraffle, Optimizely
+
+
+
+</div>
 
 </body>
