@@ -71,6 +71,8 @@ Caption
 Alt text
 Description
 
+# Project Name
+
 ## Project Summary
 
 ## Client
