@@ -97,7 +97,7 @@ export const SITE_CONTENT: SiteContent = {
       role: 'UX Designer',
       linkPreview: "/studies/xogroup",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.png",
     },
   ],
   about: {
