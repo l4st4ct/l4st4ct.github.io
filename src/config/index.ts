@@ -73,7 +73,7 @@ export const SITE_CONTENT: SiteContent = {
       role: 'Senior UX Designer',
       linkPreview: "/studies/pearson",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.png",
     },
     {
       name: "Genius Sports Group",
@@ -81,7 +81,7 @@ export const SITE_CONTENT: SiteContent = {
       role: 'UX Strategist',
       linkPreview: "/studies/genius-sports",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.png",
     },
     {
       name: "Media Temple",
@@ -89,7 +89,7 @@ export const SITE_CONTENT: SiteContent = {
       role: 'UX Architect',
       linkPreview: "/studies/media-temple",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.png",
     },
     {
       name: "XO Group | The Knot",
