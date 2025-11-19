@@ -3,7 +3,7 @@ title: 'XO Group| The Knot'
 description: 'This page shows a selection of UX work completed for XO Group.'
 tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wireframes”, “Prototypes"]
 ---
-<link rel="stylesheet" href="./studyglobal.css"/>
+<link rel="stylesheet" href="./global.css"/>
 <style>
     h1{font-size:32px;color:#2563eb}
     h2{color:#2563eb}
