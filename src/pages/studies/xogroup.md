@@ -12,7 +12,6 @@ tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wire
     </style>
 <body>
     <div style="{border:2px; margin-inline:auto}">
-          <div class="bg-difu relative  bg-black  ">
         
 <div class="center" style="width:800px;margin-inline:auto">
 
@@ -134,8 +133,6 @@ I  met with the product manager and tech lead for the Knot Shop to learn more ab
 Omnigraffle, Optimizely
 
 
-
-</div>
 
 </div>
 
