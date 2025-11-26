@@ -59,7 +59,7 @@ UX designer
 ## Project Details
 I worked with the marketing and SEO teams to gather quantitative data on our users and their behaviors. I also worked closely with our UX researcher to gather qualitative data. Casey Skinnell and Amy O'Brien were selected as our primary personas representing either end of our user spectrum. I collaborated well with the design team to create trading cards and posters of our new persona brides. A launch party with games and scenarios were used to introduce the development teams to our personas. A month later developer user stories were found in Pivotal Tracker using at least one of the personas.
 
-</div>
+
 
 <div style="background-color:grey">
 
@@ -98,6 +98,11 @@ After sharing the  high-fidelity wireframes and workflows with the product manag
 ## Tools Used
 Omnigraffle, Marvel App
 
+<div style="background-color:grey">
+
+## Reflection
+Although we monitored story tickets  and saw an increase in using these personas in feature stories, I would have created more defined usage metrics that matched the goals and team needs.
+</div>
 
 <image>/page13.png
 Caption
@@ -105,6 +110,7 @@ Alt text
 Description
 
 
+# Project Name
 ## Client
 The Knot Shop team
 
@@ -128,6 +134,10 @@ I  met with the product manager and tech lead for the Knot Shop to learn more ab
 Omnigraffle, Optimizely
 
 
+
+</div>
+
+</div>
 
 </div>
 
