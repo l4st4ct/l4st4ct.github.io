@@ -5,16 +5,16 @@ tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wire
 ---
 <link rel="stylesheet" href="./global.css"/>
 <style>
-    h1{font-size:32px;color:#2563eb}
+    h1{font-size:2rem;color:#2563eb}
     h2{color:#2563eb}
     p{color:grey}
     ul li {color:grey}
     </style>
 <body>
-    <div style={border:2px}>
+    <div style="{border:2px; margin-inline:auto}">
           <div class="bg-difu relative  bg-black  ">
         
-<div class="center" style="width:800px;align:center">
+<div class="center" style="width:800px;margin-inline:auto">
 
 # XO Group | The Knot
 
@@ -25,7 +25,7 @@ tags: ["Persona Development”, “User Research”, “Storyboards”,  “Wire
 
  </div>
 
-## XO Group | Validating Wedding Tools Usage
+# XO Group | Validating Wedding Tools Usage
 
 ## Project Summary
 
