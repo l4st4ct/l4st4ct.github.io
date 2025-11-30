@@ -1,4 +1,23 @@
-z
+z---
+title: 'Genius Sports Media'
+description: 'This page shows the UX work completed for Genius Sports Media.'
+tags: [“User Research”,  “Wireframes”, "Prototyping"]
+---
+
+<style>
+    h1{font-size:2rem;color:#2563eb}
+    h2{color:#2563eb}
+    p{color:grey}
+    ul li {color:grey}
+</style>
+
+
+<body>
+    <div style="{border:2px; margin-inline:auto}">
+        
+<div class="center" style="width:800px;margin-inline:auto">
+
+# Genius Soorts Media
 
 ## Overview
 
@@ -35,3 +54,9 @@ Before I left, a second round of interviews were being arranged to test out a hi
 
 Request password to view full UX portfolio, lissa.aguilar@gmail.com
 Review Full UX Portfolio
+
+</div>
+
+</div>
+
+</body>
