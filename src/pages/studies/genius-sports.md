@@ -1,9 +1,8 @@
-z---
+---
 title: 'Genius Sports Media'
 description: 'This page shows the UX work completed for Genius Sports Media.'
 tags: [“User Research”,  “Wireframes”, "Prototyping"]
 ---
-
 <style>
     h1{font-size:2rem;color:#2563eb}
     h2{color:#2563eb}
