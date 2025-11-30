@@ -1,6 +1,20 @@
 ---
 tags: 'Customer Journey Mapping, Sitemap, User Research, Workflow Chart, Wireframes'
 ---
+<style>
+    h1{font-size:2rem;color:#2563eb}
+    h2{color:#2563eb}
+    p{color:grey}
+    ul li {color:grey}
+    </style>
+<body>
+    <div style="{border:2px; margin-inline:auto}">
+        
+<div class="center" style="width:800px;margin-inline:auto">
+
+
+
+
 ## Media Temple 
 
 intro of related projects
@@ -188,3 +202,8 @@ Projects to improve the existing page with options for managing services are in 
 
 Backend teams are working with frontend teams to build an API for its billing section
 
+</div>
+
+</div>
+
+</body>
