@@ -1,6 +1,24 @@
-Pearson Virtual Schools | Special Population Services Discovery
+---
+title: 'Pearson Virtual Schools'
+description: 'This page shows the UX work completed for Pearson Virtual Schools.'
+tags: [“Persona Development", "User Research", "Service Blueprint Creation"]
+---
+<style>
+    h1{font-size:2rem;color:#2563eb}
+    h2{color:#2563eb}
+    p{color:grey}
+    ul li {color:grey}
+</style>
 
-Persona Development, User Research, Service Blueprint Creation
+
+<body>
+    <div style="{border:2px; margin-inline:auto}">
+        
+<div class="center" style="width:800px;margin-inline:auto">
+
+# Pearson Virtual Schools | Special Population Services Discovery
+
+
 
 
 
@@ -59,3 +77,10 @@ Figma, Microsoft Office 365 Word, Zoom
 Request password to view full UX portfolio, lissa.aguilar@gmail.com
 <button> link to portfolio page
 Review full ux portfolio
+
+</div>
+
+</div>
+
+
+</body>
