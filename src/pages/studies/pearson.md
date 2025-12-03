@@ -16,17 +16,15 @@ tags: [“Persona Development", "User Research", "Service Blueprint Creation"]
         
 <div class="center" style="width:800px;margin-inline:auto">
 
-# Pearson Virtual Schools | Special Population Services 
+# Alternative Curriculum/ Specialized Instructional  Support Program Evaluation and Recommendations
 
-
-
-
-
-Alternative Curriculum/ Specialized Instructional  Support Program Evaluation and Recommendations
-Client
+## Client
 
 Special Populations Department
 Role
+
+
+## Role
 
 UX Strategist, Researcher
 Problem
