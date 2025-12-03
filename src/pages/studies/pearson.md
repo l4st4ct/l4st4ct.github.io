@@ -16,7 +16,7 @@ tags: [“Persona Development", "User Research", "Service Blueprint Creation"]
         
 <div class="center" style="width:800px;margin-inline:auto">
 
-# Pearson Virtual Schools | Special Population Services Discovery
+# Pearson Virtual Schools | Special Population Services 
 
 
 
@@ -80,7 +80,7 @@ Review full ux portfolio
 
 </div>
 
-</div>
+</div> <!--close main container-->
 
 
 </body>

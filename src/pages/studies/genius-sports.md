@@ -10,9 +10,8 @@ tags: [“User Research”,  “Wireframes”, "Prototyping"]
     ul li {color:grey}
 </style>
 
-
 <body>
-    <div style="{border:2px; margin-inline:auto}">
+<div style="{border:2px; margin-inline:auto}">
         
 <div class="center" style="width:800px;margin-inline:auto">
 
