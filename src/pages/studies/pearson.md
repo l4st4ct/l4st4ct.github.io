@@ -16,13 +16,10 @@ tags: [“Persona Development", "User Research", "Service Blueprint Creation"]
         
 <div class="center" style="width:800px;margin-inline:auto">
 
-# Alternative Curriculum/ Specialized Instructional  Support Program Evaluation and Recommendations
+# Alternative Curriculum/Specialized Instructional Support Program Evaluation and Recommendations
 
 ## Client
-
 Special Populations Department
-Role
-
 
 ## Role
 
@@ -33,18 +30,14 @@ The department was evaluating its offering for alternative students who have cog
 Challenge
 
 There was little or outdated research available to understand students’ needs
-Actions
+## Actions
 
-We ne
-
-eded to properly understand the current offerings and how it was meeting the needs of families and different schools. I completed the following:
-
- 	I wrote the survey and discussion guide with the product team
-
-	I moderated teacher listening sessions
-
-	I created surveys to learn about the landscape
-
+We needed to properly understand the current offerings and how it was meeting the needs of families and different schools. I completed the following:
+<ul>
+ 	<li>I wrote the survey and discussion guide with the product team</li>
+	<li>I moderated teacher listening sessions</li>
+	<li>I created surveys to learn about the landscape</li>
+</ul>
 
 
 <Personas card image>/personas.png
@@ -60,9 +53,7 @@ Caption: Alt Curriculum Blueprint - Student POV
 The following assets were created based on surveys and customer listening sessions:
 <ul>
     <li>Personas</li>
-
     <li>Journey maps of course completion and admin tasks</li>
-
     <li>/Service blueprint of service requests and management process</li>
 </ul>
 
@@ -72,13 +63,14 @@ Once I learned about family and teachers’ needs,  I shared results and pitched
 ## Tools Used
 Figma, Microsoft Office 365 Word, Zoom
 
+## Reflection
+<p>something</p>
+
 Request password to view full UX portfolio, lissa.aguilar@gmail.com
 <button> link to portfolio page
 Review full ux portfolio
 
 </div>
-
 </div> <!--close main container-->
-
 
 </body>
