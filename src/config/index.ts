@@ -73,7 +73,7 @@ export const SITE_CONTENT: SiteContent = {
       role: 'Senior UX Designer',
       linkPreview: "/studies/pearson",
       linkSource: "https://github.com/immois/astro-zen",
-      image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.png",
+      image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.pngxxxxxx",
     },
     {
       name: "Genius Sports Group",
