@@ -40,6 +40,8 @@ We needed to properly understand the current offerings and how it was meeting th
 </ul>
 
 
+<img src="/public/PVS_special-population-personas.png" width="640px">
+
 <Personas card image>/personas.png
 Alt text: 3 persona  cards representing users in Pearson Virtual Schools alt curriculum courseware
 Caption: personas
@@ -63,8 +65,6 @@ Once I learned about family and teachers’ needs,  I shared results and pitched
 ## Tools Used
 Figma, Microsoft Office 365 Word, Zoom
 
-## Reflection
-<p>something</p>
 
 Request password to view full UX portfolio, lissa.aguilar@gmail.com
 <button> link to portfolio page
