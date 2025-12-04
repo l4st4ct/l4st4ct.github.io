@@ -40,9 +40,9 @@ We needed to properly understand the current offerings and how it was meeting th
 </ul>
 
 
-<img src="/public/PVS_special-population-personas.png" width="640px">
+<img src="../public/PVS_special-population-personas.png" width="640px">
 
-<img src="/public/PVS_alt-curriculum- signup_service-blueprint.jpg" width="640px" />
+<img src="../public/PVS_alt-curriculum- signup_service-blueprint.jpg" width="640px" />
 Alt text: 3 persona  cards representing users in Pearson Virtual Schools alt curriculum courseware
 Caption: personas
 
