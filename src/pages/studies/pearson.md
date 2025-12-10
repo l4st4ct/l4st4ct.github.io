@@ -44,7 +44,7 @@ We needed to properly understand the current offerings and how it was meeting th
 
 <!--![personas](../assets/PVS-blueprint.jpg)-->
 
-<img src="../src/pages/assets/PVS-blueprint.jpg" width="640px" />
+<img src="../assets/PVS-blueprint.jpg" width="640px" />
 
 Alt text: 3 persona  cards representing users in Pearson Virtual Schools alt curriculum courseware
 Caption: personas
