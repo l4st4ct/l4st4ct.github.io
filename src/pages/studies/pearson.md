@@ -40,7 +40,7 @@ We needed to properly understand the current offerings and how it was meeting th
 </ul>
 
 
-<img src="../ASSETS/PVS_special-population-personas.png" width="640px"/ >
+<!--img src="../ASSETS/PVS_special-population-personas.png" width="640px"/ -->
 
 <!--![personas](../assets/PVS-blueprint.jpg)
 
