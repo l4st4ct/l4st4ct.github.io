@@ -31,6 +31,12 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
+      company: "Hello Inclusion",
+      position: "CX Strategy and Creative Services Coordinator",
+      startDate:"December 2025",
+      endDate:"Present",
+    },
+    {
       company: "RTX (Raytheon Technologies)",
       position: "UX Researcher/UX Analyst",
       startDate: "January 2023",
