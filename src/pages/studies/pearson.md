@@ -39,12 +39,11 @@ We needed to properly understand the current offerings and how it was meeting th
 	<li>I created surveys to learn about the landscape</li>
 </ul>
 
-
 <!--img src="../ASSETS/PVS_special-population-personas.png" width="640px"/ -->
 
-<!--![personas](../assets/PVS-blueprint.jpg)-->
+<![personas](/images/PVS-blueprint.jpg)>
 
-<img src="../assets/PVS-blueprint.jpg" width="640px" />
+<!--img src="../assets/PVS-blueprint.jpg" width="640px" /-->
 
 Alt text: 3 persona  cards representing users in Pearson Virtual Schools alt curriculum courseware
 Caption: personas
