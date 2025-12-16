@@ -10,6 +10,7 @@ export const SITE_CONFIG: SiteConfig = {
   navLinks: [
     { text: "Projects", href: "/uxprojects" },
     { text: "Resume", href: "/resume" },
+    { text: "Blog", href: "/blog"}
   ],
   socialLinks: [
     { text: "itch.io", href: "https://l4st4ct.itch.io/" },
