@@ -35,6 +35,7 @@ export const SITE_CONTENT: SiteContent = {
       position: "CX Strategy and Creative Services Coordinator",
       startDate:"December 2025",
       endDate:"Present",
+      summary:["tbd"]
     },
     {
       company: "RTX (Raytheon Technologies)",
