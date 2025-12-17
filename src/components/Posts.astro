@@ -9,7 +9,7 @@ interface Props {
 const { posts } = Astro.props;
 ---
 
-<Section text=" Projects" href="projects">
+<Section text=" Posts" href="posts">
 <p class="mb-9"style="color:white">overview text</p>
   {
     posts.map(({ name, summary, linkPreview }, index) => {
