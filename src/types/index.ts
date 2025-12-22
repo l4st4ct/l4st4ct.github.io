@@ -39,6 +39,11 @@ export interface ProjectProps {
   linkSource?: string;
 }
 
+export interface PostProps {
+  name: string;
+  linkPreview?: string;
+}
+
 export interface AboutProps {
   description: string;
   image: string;
