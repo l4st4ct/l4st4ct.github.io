@@ -40,8 +40,8 @@ export interface ProjectProps {
 }
 
 export interface PostProps {
-  name: string;
-  linkPreview?: string;
+  ptitle: string;
+  plinkPreview?: string;
 }
 
 export interface AboutProps {
