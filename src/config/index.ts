@@ -109,6 +109,24 @@ export const SITE_CONTENT: SiteContent = {
       image: "/[Registry] Charity FAQ_charity_wireframe_snpshot.png",
     },
   ],
+  posts: [
+    {
+      name: "Pearson Virtual Schools_test",
+      linkPreview: "/studies/pearson",
+    },
+    {
+      name: "Genius Sports Group-test",
+      linkPreview: "/studies/genius-sports",
+     },
+    {
+      name: "Media Temple-test",
+      linkPreview: "/studies/media-temple",
+    },
+    {
+      name: "XO Group | The Knot-test",
+      linkPreview: "/studies/xogroup",
+    },
+  ],
   about: {
     description: `
       I'm a systems thinker who approaches user experience design by asking what motivates each design decision.. I'm fascinated by the tension between a business's needs and those of its users. They influence a product and its ecosystem. I believe in understanding the complete landscape — the complex interconnections between users, business goals, and technical constraints. Designing the appropriate solution means
