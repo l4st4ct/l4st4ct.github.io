@@ -20,6 +20,9 @@ feeling beter
 repurpose my skills to work for my friends cultancy
 imprrove data literacy and designing metrics, ux research knowledge, accessibility
 catchafire gigs 2
+comp languages elm, processing js,
+latest obsession: music and sound design
+art projects executed
 what are my values?
 how do I live my values? lets go
 </body>
