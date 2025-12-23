@@ -1,19 +1,19 @@
 ---
 import Section from "./Section.astro";
 import { Image } from "astro:assets";
-import type { ProjectProps } from "@types";
+import type { PostProps } from "@types";
 
 interface Props {
-  projects: ProjectProps[];
+  posts: PostProps[];
 }
 
-const { projects } = Astro.props;
+const { posts } = Astro.props;
 ---
 
 <Section text=" Blog" href="blog">
 <p class="mb-9"style="color:white">overview text</p>
   {
-    projects.map(({ name, linkPreview }, index) => {
+    posts.map(({ name, linkPreview }, index) => {
       const top = 98 + index * 40;
       return (
 
