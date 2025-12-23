@@ -111,20 +111,20 @@ export const SITE_CONTENT: SiteContent = {
   ],
   posts: [
     {
-      name: "Pearson Virtual Schools_test",
-      linkPreview: "/studies/pearson",
+      name: "Exploring Elm, Sound Design,AudioWeb API",
+      linkPreview: "/posts/audio-elm",
     },
     {
-      name: "Genius Sports Group-test",
-      linkPreview: "/studies/genius-sports",
+      name: "Wayfinding in A Loud Digital Market",
+      linkPreview: "/posts/wayfinding-loud-market",
      },
     {
-      name: "Media Temple-test",
-      linkPreview: "/studies/media-temple",
+      name: "Communication - Explain It To Me Like I'm 5...",
+      linkPreview: "/posts/communication",
     },
     {
-      name: "XO Group | The Knot-test",
-      linkPreview: "/studies/xogroup",
+      name: "End of Year WTF Report",
+      linkPreview: "/posts/eoy-wtf",
     },
   ],
   about: {
