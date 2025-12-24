@@ -32,7 +32,7 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "Hello Inclusion",
-      position: "CX Strategy and Creative Services Coordinator",
+      position: "Customer Experience and Creative Technology Strategist",
       startDate:"December 2025",
       endDate:"Present",
       summary:["tbd"]

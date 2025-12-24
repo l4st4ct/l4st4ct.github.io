@@ -22,6 +22,9 @@ imprrove data literacy and designing metrics, ux research knowledge, accessibili
 catchafire gigs 2
 comp languages elm, processing js,
 latest obsession: music and sound design
+zoom meetings/ google meets
+how man friend groups reconected,3 bls homies, nyu art homie, nyc college friends
+la homie i reconnected w, 1 in fl, 1 in  texas, 1 colorado, 1 atl, 4 in LA map of friends
 art projects executed
 what are my values?
 how do I live my values? lets go
