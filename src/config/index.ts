@@ -32,10 +32,16 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "Hello Inclusion",
-      position: "Customer Experience and Creative Technology Strategist",
+      position: "CX and Creative Technology Strategist",
       startDate:"December 2025",
       endDate:"Present",
-      summary:["tbd"]
+      summary:[
+        "Managing weekly communications with teaching coaching consultants;",
+        "Scheduling and running interview sessions; Designing visual assets for social media platforms, Youtube, TikTok, Instagram;",
+        "Designing newsletter; Planning business goals with social media engagement plans;",
+        "Reviewing consultant candidates and improving onboarding for different roles;",
+        "Created user journey maps and workflows for onboarding new employees, workflow for payroll, when user encounters social media platform then becomes potential customers",
+        ]
     },
     {
       company: "RTX (Raytheon Technologies)",
