@@ -8,9 +8,7 @@ export const SITE_CONFIG: SiteConfig = {
   lang: "en",
   siteLogo: "/profile.jpg",
   navLinks: [
-    { text: "Projects", href: "/uxprojects" },
     { text: "Resume", href: "/resume" },
-    { text: "Blog", href: "/blog"}
   ],
   socialLinks: [
     { text: "itch.io", href: "https://l4st4ct.itch.io/" },
